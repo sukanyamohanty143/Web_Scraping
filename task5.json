@@ -1,0 +1,201 @@
+[
+    {
+        "movie_name": "Toy Story 4",
+        "rating": "G",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Fantasy,",
+            "Animation,",
+            "Adventure,",
+            "Comedy"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " JoshCooley"
+        ],
+        "Runtime": 100
+    },
+    {
+        "movie_name": "Spider-Man: Into the Spider-Verse",
+        "rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Fantasy,",
+            "Animation,",
+            "Adventure,",
+            "Action,",
+            "Comedy"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " BobPersichetti",
+            "PeterRamsey",
+            "RodneyRothman"
+        ],
+        "Runtime": 117
+    },
+    {
+        "movie_name": "Inside Out",
+        "rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Fantasy,",
+            "Animation"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " PeteDocter"
+        ],
+        "Runtime": 95
+    },
+    {
+        "movie_name": "Coco",
+        "rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure,",
+            "Music,",
+            "Comedy"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " LeeUnkrich"
+        ],
+        "Runtime": 109
+    },
+    {
+        "movie_name": "Snow White and the Seven Dwarfs",
+        "rating": "G",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Fantasy"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " DavidHand"
+        ],
+        "Runtime": 80
+    },
+    {
+        "movie_name": "Soul",
+        "rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Adventure,",
+            "Animation"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " PeteDocter"
+        ],
+        "Runtime": 100
+    },
+    {
+        "movie_name": "Incredibles 2",
+        "rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Animation,",
+            "Adventure,",
+            "Action,",
+            "Comedy"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " BradBird"
+        ],
+        "Runtime": 118
+    },
+    {
+        "movie_name": "Zootopia",
+        "rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Adventure,",
+            "Animation"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " ByronHoward",
+            "RichMoore"
+        ],
+        "Runtime": 108
+    },
+    {
+        "movie_name": "Paddington 2",
+        "rating": "PG",
+        "Genre": [
+            "Kids",
+            "&",
+            "family,",
+            "Comedy,",
+            "Adventure"
+        ],
+        "Languagre": [
+            "English",
+            "(United",
+            "Kingdom)"
+        ],
+        "Director": [
+            " PaulKing"
+        ],
+        "Runtime": 103
+    },
+    {
+        "movie_name": "Up",
+        "rating": "PG",
+        "Genre": [
+            "Animation,",
+            "Adventure,",
+            "Kids",
+            "&",
+            "family,",
+            "Comedy"
+        ],
+        "Languagre": [
+            "English"
+        ],
+        "Director": [
+            " PeteDocter",
+            "BobPeterson"
+        ],
+        "Runtime": 89
+    }
+]

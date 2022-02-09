@@ -1,0 +1,23 @@
+{
+    "movie_name": "Spider-Man: Into the Spider-Verse",
+    "rating": "PG",
+    "Genre": [
+        "Fantasy,",
+        "Kids",
+        "&",
+        "family,",
+        "Animation,",
+        "Adventure,",
+        "Action,",
+        "Comedy"
+    ],
+    "Languagre": [
+        "English"
+    ],
+    "Director": [
+        " BobPersichetti",
+        "PeterRamsey",
+        "RodneyRothman"
+    ],
+    "Runtime": 117
+}
